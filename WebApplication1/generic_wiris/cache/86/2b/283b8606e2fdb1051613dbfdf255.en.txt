@@ -1,0 +1,1 @@
+{"result":{"text":"T equals open curly brackets pi over 4 plus k pi comma fraction numerator 3 pi over denominator 4 end fraction plus k pi comma open parentheses k element of straight integer numbers close parentheses close curly brackets."},"status":"ok"}
